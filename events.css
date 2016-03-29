@@ -1,7 +1,39 @@
+/* STYLING NEcessary includes:
 will need BOLD
 italics
 block elements for the buttons 
 text to blue
 font size
 border
-rounded
+rounded*/
+
+.blue {
+  color: blue; 
+}
+
+.large {
+  font-size: 1.5em;
+}
+
+.border {
+  border: 10px solid black;
+}
+
+.rounded {
+  border:10px solid black;
+  border-radius: 25px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-weight: bold;
+  font-style: italic; 
+}
+
+.block {
+  display: block;
+}
+
